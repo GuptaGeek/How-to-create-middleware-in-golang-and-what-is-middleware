@@ -1,0 +1,2 @@
+# How-to-create-middleware-in-golang-and-what-is-middleware
+                                                                 So the middleware is consist of code which sits between incoming request and a handle so accordin to assumptions middleware is a peice a of code which is executed before and after the handler function.Because ideally we can only handlers to process request and to produce a response
